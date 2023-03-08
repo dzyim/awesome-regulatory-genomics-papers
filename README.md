@@ -1,9 +1,10 @@
-# Awesome Regulatory Genomics ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Awesome Regulatory Genomics
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-A curated list of regulatory genomics papers and resources.
-
+> ### A curated list of regulatory genomics papers and resources. :tada:
 Inspired by [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/).
 
+<br><br>
 ------------------------------------------------------------
 
 # 1 Basics
@@ -11,7 +12,7 @@ Inspired by [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/
 ## 1.0 Books
 
 
-
+<br><br>
 # 2 Consortium-based Projects
 
 ## 2.1 ENCODE
