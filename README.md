@@ -15,7 +15,7 @@ Inspired by [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/
 <br><br>
 # 2 Consortium-based Projects
 
-## 2.1 ENCODE
+## 2.1 The Encyclopedia of DNA Elements (ENCODE) Project
 
 **ENCODE Portal**. [[link]](https://www.encodeproject.org/)
 
@@ -26,7 +26,7 @@ Ecker, J. et al. **ENCODE explained**. Nature 489, 52–54 (2012). [[pdf]](https
 **[1]** The ENCODE Project Consortium. **An integrated encyclopedia of DNA elements in the human genome**. Nature 489, 57–74 (2012). [[pdf]](https://www.nature.com/articles/nature11247.pdf)
 
 
-## 2.2 Roadmap Epigenomics Project
+## 2.2 The NIH Roadmap Epigenomics Project
 
 **Roadmap Epigenomics Project Portal**. [[link]](https://egg2.wustl.edu/roadmap/web_portal/)
 
