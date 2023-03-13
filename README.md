@@ -11,6 +11,8 @@ Inspired by [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/
 
 ## 1.0 Books
 
+**[0]** James D. Watson, Tania A. Baker, Stephen P. Bell, Alexander A.F. Gann, Michael Levine, Richard M. Losick. **Molecular Biology of the Gene.** Pearson, 2013. CSHL Press, 2007. 2003. Addison-Wesley, 1987. Benjamin-Cummings, 1976. W. A. Benjamin, 1970. 1965. [[Amazon]](https://www.amazon.com/Molecular-Biology-Gene-James-Watson/dp/0321762436/) [[Pearson]](https://www.pearson.com/store/p/molecular-biology-of-the-gene/P200000006938) [[Douban]](https://book.douban.com/subject/26384150/)
+
 
 <br><br>
 # 2 Consortium-based Projects
